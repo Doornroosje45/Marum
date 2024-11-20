@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.85 29.35">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fd0;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #1d1d1b;
+      }
+
+      .cls-4 {
+        font-size: 7.32px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: AnwbUuVerzwaardNormal, 'Anwb Uu Verzwaard';
+      }
+
+      .cls-5 {
+        font-size: 8.6px;
+      }
+
+      .cls-2, .cls-6 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-6 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <g id="Borden">
+    <g>
+      <path class="cls-2" d="M36.12,28.85c.68,0,1.23-.63,1.23-1.42V1.92c0-.78-.55-1.42-1.23-1.42H1.73c-.68,0-1.23.64-1.23,1.42v25.51c0,.78.55,1.42,1.23,1.42h34.39Z"/>
+      <text class="cls-4" transform="translate(2 26.85) scale(.97 1)"><tspan x="0" y="0">FESTIVAL</tspan></text>
+      <g>
+        <path class="cls-3" d="M27.24,2.19h8.2c.09,0,.15.07.15.15v8.19c0,.08-.07.15-.15.15h-8.2c-.08,0-.15-.07-.15-.15V2.34c0-.08.07-.15.15-.15Z"/>
+        <rect class="cls-1" x="27.48" y="2.58" width="7.71" height="7.71" rx=".14" ry=".14"/>
+        <text class="cls-5" transform="translate(28.82 9.67) scale(.9 1)"><tspan x="0" y="0">P</tspan></text>
+      </g>
+      <g>
+        <path class="cls-3" d="M9.97,7.04l-2.89-.17.48,1.97c0,.32-.24.47-.46.31l-1.97-1.36-2.12-1.46c-.16-.11-.16-.39,0-.5l2.12-1.46,1.97-1.36c.23-.16.46,0,.46.31l-.48,1.97,2.89-.17v1.89Z"/>
+        <circle class="cls-6" cx="6.46" cy="6.1" r=".12"/>
+      </g>
+    </g>
+  </g>
+</svg>
